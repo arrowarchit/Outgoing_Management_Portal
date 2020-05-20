@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    registry ="m0hitbansal/outgoing-webapp"
+    registry ="architsemwal/outgoing-webapp"
     registryCredential ='docker-hub-credentials'         // docker hub credential, stored in credential part
     dockerImage = ''
     dockerImageLatest = ''
@@ -9,7 +9,7 @@ pipeline {
   stages {
     stage('Cloning Git') {
       steps {
-        git 'https://github.com/m0hitbansal/Outgoing-Managment-Portal.git'
+        git 'https://github.com/arrowarchit/Outgoing_Management_Portal.git'
       }
     }
     stage('Test application'){
