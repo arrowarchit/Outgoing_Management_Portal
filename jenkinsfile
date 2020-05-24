@@ -1,7 +1,7 @@
 pipeline {
   environment {
     registry ="architsemwal/outgoing-webapp"
-    registryCredential ='docker-hub-credentials'         // docker hub credential, stored in credential part
+    registryCredential ='docker-hub'         // docker hub credential, stored in credential part
     dockerImage = ''
     dockerImageLatest = ''
   }
