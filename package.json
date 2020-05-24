@@ -30,12 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arrowarchit/Outgoing_Management_Portal.git"
+    "url": "git+https://github.com/arrowarchit/Outgoing_Management_Portal"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arrowarchit/Outgoing_Management_Portal.git/issues"
+    "url": "https://github.com/arrowarchit/Outgoing_Management_Portal/issues"
   },
-  "homepage": "https://github.com/arrowarchit/Outgoing_Management_Portal.git#readme"
+  "homepage": "https://github.com/arrowarchit/Outgoing_Management_Portal#readme"
 }

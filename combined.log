@@ -202,3 +202,7 @@
 {"message":{"type":"api-call","call_name":"/Guard_fetch_leave","method":"POST","text_entry":"Guard fetch leave details ofMT2019026"},"level":"info","timestamp":"2020-05-24 16:00:16"}
 {"message":{"index":{"index":"Outgoing","_id":23},"level":"info","message":""},"level":"info","timestamp":"2020-05-24 16:00:17"}
 {"message":{"type":"api-call","call_name":"/home_checkin","method":"POST","text_entry":"archit semwal is home in"},"level":"info","timestamp":"2020-05-24 16:00:17"}
+{"message":{"index":{"index":"Outgoing","_id":1},"level":"info","message":""},"level":"info","timestamp":"2020-05-24 17:09:28"}
+{"message":{"type":"api-call","call_name":"/localcheckout","method":"POST","text_entry":"MT2019048 is local out"},"level":"info","timestamp":"2020-05-24 17:09:28"}
+{"message":{"index":{"index":"Outgoing","_id":2},"level":"info","message":""},"level":"info","timestamp":"2020-05-24 17:09:28"}
+{"message":{"type":"api-call","call_name":"/localcheckin","method":"POST","text_entry":"4 is local in"},"level":"info","timestamp":"2020-05-24 17:09:28"}
